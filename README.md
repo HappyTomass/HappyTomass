@@ -2,10 +2,13 @@
 
 I'm HappyTomass and I'm currently studying English Philology.\
 I love to translate from English to German and vice versa and am doing this since 2020.\
-If someone is interested in a collab, feel free to text me✨
-
-<img alt = "profile01.jpg" src="profile01.jpg"/>
-
+If someone is interested in a collab, feel free to text me✨\
+\
+Have a nice day!\
+~HappyTomass\
+\
+\
+<img alt = "profile00.jpg" src="profile00.jpg"/>
 <!--
 **HappyTomass/HappyTomass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
