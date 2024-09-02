@@ -4,7 +4,7 @@ I'm HappyTomass and I'm currently studying English Philology.\
 I love to translate from English to German and vice versa and am doing this since 2020.\
 If someone is interested in a collab, feel free to text me✨
 
-<img alt = "profile01.jpg" src="profile01.jpg"/>
+<img alt = "profile01-1.jpg" src="profile01.-1jpg"/>
 !/../main/profile01.jpg
 
 <!--
