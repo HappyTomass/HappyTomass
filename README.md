@@ -8,7 +8,7 @@ Have a nice day!\
 ~HappyTomass\
 \
 \
-<img alt = "profile00.jpg" src="profile00.jpg"/>
+<img alt = "profile00-1-1.jpg" src="profile00-1-1.jpg"/>
 <!--
 **HappyTomass/HappyTomass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
