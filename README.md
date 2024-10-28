@@ -6,12 +6,7 @@ If someone is interested in a collab, feel free to text me✨\
 \
 Have a nice day!\
 ~HappyTomass\
-\
-\
-P.S.: Below is a drawing of mine which I made some months ago. I hope your like it^^
-\
-\
-<img alt = "profile00-1-1.jpg" src="profile00-1-1.jpg"/>
+
 <!--
 **HappyTomass/HappyTomass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
