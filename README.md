@@ -5,7 +5,7 @@ I love to translate from English to German and vice versa and am doing this sinc
 If someone is interested in a collab, feel free to text me✨\
 \
 Have a nice day!\
-~HappyTomass\
+~HappyTomass
 
 <!--
 **HappyTomass/HappyTomass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
